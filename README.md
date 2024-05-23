@@ -1,8 +1,8 @@
 # JAVA-API
 
-### - In this project I have to use many method of API calling in JAVA.
+### - In this project I used many method of API calling in JAVA.
 ---
-- In this project I have to use this 👇 tow dependency to get data from api
+- In this project I used this 👇 tow dependency to get data from api
 - you must add this dependency in your pom.xml/ file.
 ```
     <dependency>
