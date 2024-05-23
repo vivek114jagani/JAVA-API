@@ -3,7 +3,7 @@
 ### - In this project I have to use many method of API calling in JAVA.
 ---
 - In this project I have to use this 👇 tow dependency to get data from api
-- you must add this depandency in your pom.xml/ file.
+- you must add this dependency in your pom.xml/ file.
 ```
     <dependency>
       <groupId>org.json</groupId>
